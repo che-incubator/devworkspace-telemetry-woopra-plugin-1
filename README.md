@@ -7,6 +7,8 @@ A [personal access token](https://github.com/settings/tokens) with `read:package
 dependencies from GitHub.
 
 
+
+
 Add a repository entry in `$HOME/.m2/settings.xml`:
 
 ```xml
